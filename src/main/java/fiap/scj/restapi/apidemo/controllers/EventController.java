@@ -30,7 +30,6 @@ public class EventController {
     public String test() {
         // GET http://localhost:8080/event/test
         return "<h1>Teste efetuado com sucesso! Powered By Heroku</h1> (Developer by Mario Assis)";
-
     }
 
     // Retrieve All
